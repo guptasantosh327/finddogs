@@ -152,6 +152,7 @@ h2{
 }
 
 
+
 /* section footer */
 #footer{
     padding: 7% 15%;
@@ -172,7 +173,7 @@ h2{
         transform: rotate(0deg);
         margin: 0 auto;
     }
-    h1{
+    /* h1{
         font-size: 2rem;
     }
     h2{
@@ -180,7 +181,7 @@ h2{
     }
     h3{
         font-size: 0.9rem;
-    }
+    } */
     .mobile{
         margin-top: 5%;
     }
